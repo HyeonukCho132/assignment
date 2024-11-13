@@ -5,5 +5,5 @@ int main(void)
 {
     print_hello();
     print_world();
-    return;
+    return 0;
 }
